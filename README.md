@@ -7,6 +7,7 @@ We’ve also added a basic texture painting system to modify terrain visuals in 
 - Procedural heightmap generation using Perlin noise
 - Customizable terrain resolution and noise settings
 - Real-time texture painting on terrain
+- **Improved terrain edges with smoother and more natural curvature**
 - Modular and clean C# scripts
 
 ## Scripts
