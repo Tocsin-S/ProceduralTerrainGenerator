@@ -14,7 +14,7 @@ We’ve also added a basic texture painting system to modify terrain visuals in 
 - `TerrainPainter.cs`: Allows texture painting with brush radius and strength
 
 ## Screenshots
-_Add screenshots or gifs here if available_
+![Procedural Terrain Screenshot](screenshot.jpg)
 
 ## Requirements
 - Unity 2022.3 or newer (Tested on Unity 6)
